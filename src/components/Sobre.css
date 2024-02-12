@@ -1,0 +1,55 @@
+.destaque{
+    display: flex;
+    width: 110px;
+    margin-left: 192px;
+    margin-top: 190px;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+}
+.subheader{
+    display: flex;
+    border-radius: 7px;
+    width: 920px;
+    height: 100px;
+    margin-left: 190px;
+    margin-top: -5px;
+    background-color: #6358BD30;
+}
+.tech{
+    width: 170px;
+    height: 62px;
+    margin-top: -109px;
+    margin-left: -650px;
+}
+.divtech{
+    margin-top: -35px;
+}
+.fast{
+    width: 130px;
+    height: 25px;
+    margin-top: -50px;
+    margin-left: -150px;
+}
+.divfast{
+    margin-top: -40px;
+}
+.image7{
+    width: 51px;
+    height: 33px;
+    margin-left: 270px;
+    margin-top: -19px;
+}
+.divimage{
+    margin-top: -10px;
+}
+.forbes{
+    width: 72px;
+    height: 23px;
+    margin-left: 600px;
+}
+.divforbes{
+    margin-top: -35px;
+}
+

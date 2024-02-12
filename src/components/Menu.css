@@ -1,0 +1,91 @@
+.imagem{
+  width: 330px;
+  height: 400px;
+  margin-top: 150px;
+  margin-left: -450px;
+}
+.analise{
+  color: #ABD9D9;
+  font-weight: 500;
+  margin-top: -360px;
+  margin-left: 110px;
+  font-size: 20px;
+  font-weight: 500;
+}
+.divanalise{
+  margin-top: -25px;
+}
+.divsub{
+  margin-left: -120px;
+  margin-top: -20px;
+  text-align: left;
+}
+.H1{
+  color: #ffffff;
+  margin-left: 970px;
+  font-size: 42px;
+  text-align: left;
+}
+.divH1{
+  margin-left: -190px;
+}
+.sub2{
+  margin-left: 970px;
+  margin-top: -20px;
+  color: #ffffff;
+  width: 320px;
+  height: 83px;
+}
+.button4{
+  border-radius: 83px;
+  border: none;
+  background-color: #8D8DDA;
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 15px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin-left: 550px;
+}
+.aplicativo{
+  color: #ABD9D9;
+  font-weight: 600;
+  margin-top: 180px;
+  margin-left: -600px;
+}
+.h1menu{
+  color:#ffffff;
+  margin-left: 238px;
+  margin-top: -15px;
+  text-align: left;
+  font-size: 35px;
+  width: 300px;
+  height: 100px;
+}
+.p{
+  margin-top: 50px;
+  margin-left: 238px;
+  text-align: left;
+  color: #ffffff;
+  width: 313px;
+}
+.button5{
+  background-color: #8D8DDA;
+  color:#ffffff;
+  font-weight: 6Fdi00;
+  border-radius: 87px;
+  border: none;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin-left: -500px;
+}
+.phone{
+  width: 300px;
+  height: 350px;
+  margin-left: 360px;
+  margin-top: -330px;
+}

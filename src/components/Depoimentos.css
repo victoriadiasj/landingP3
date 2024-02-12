@@ -1,0 +1,130 @@
+.depoimentos{
+    color: #ABD9D9;
+    font-weight: 600;
+    margin-top: 100px;
+    font-size: 20px;
+}
+.leia{
+   color: #ffffff;
+   font-size: 40px;
+}
+.sombra3{
+    margin-left: -850px;
+    margin-top: -700px;
+}
+.divdepoimentos{
+    margin-top: -60px;
+    margin-left: -35px;
+}
+.divdepoimento1{
+    background-color: rgba(255, 255, 255, 0.08);
+    border-radius: 20px;
+    width: 275px;
+    height: 270px;
+    margin-left: 300px;
+    margin-top: -550px;
+}
+.logo{
+    width: 79px;
+    height: 79px;
+    margin-left: -450px;
+    margin-top: -500px;
+}
+.divlogo{
+    margin-top: -179px;
+    border-radius: 99px;
+    background-color:  lightgray 50% / cover no-repeat;
+    mix-blend-mode: luminosity;
+}
+.name{
+    margin-left: -470px;
+    margin-top: 20px;
+    margin-top: -6px;
+    color: #ffffff;
+    font-weight: 600;
+}
+.divname{
+    margin-top: 25px;
+}
+.subname{
+    color: #ffffff;
+    width: 269px;
+    height: 103px;
+    font-size: 15px;
+    margin-left: 269px;
+    margin-top: -22px;
+}
+.subname{
+    margin-top: 9px;
+}
+.divdepoimento2{
+    background-color: rgba(255, 255, 255, 0.08);
+    border-radius: 20px;
+    width: 275px;
+    height: 270px;
+    margin-left: 585px;
+    margin-top: -112px;
+}
+.logo2{
+    width: 79px;
+    height: 79px;
+    margin-top: -200px;
+    margin-left: 90px;
+}
+.divlogo2{
+    margin-top: -177px;
+    border-radius: 99px;
+    background-color:  lightgray 50% / cover no-repeat;
+    mix-blend-mode: luminosity;
+}
+.divname2{
+    margin-top: 20px;
+}
+.name2{
+    margin-top: -35px;
+    margin-left: 70px;
+    color: #ffffff;
+    font-weight: 600;
+}
+.subname2{
+    color: #ffffff;
+    width: 269px;
+    height: 103px;
+    font-size: 15px;
+    margin-left: 550px;
+    margin-top: -118px;
+}
+.divdepoimento3{
+    background-color: rgba(255, 255, 255, 0.08);
+    border-radius: 20px;
+    width: 280px;
+    height: 270px;
+    margin-left: 869px;  
+    margin-top: -115px;
+}
+.logo3{
+    width: 79px;
+    height: 79px;
+    margin-left: 660px;
+    margin-top: -65px;
+}
+.divlogo3{
+    margin-top: -175px;
+    border-radius: 99px;
+    background-color:  lightgray 50% / cover no-repeat;
+    mix-blend-mode: luminosity;
+}
+.name3{
+    margin-top: -35px;
+    margin-left: 630px;
+    color: #ffffff;
+    font-weight: 600;
+}
+.subname3{
+    color: #ffffff;
+    width: 269px;
+    height: 103px;
+    font-size: 15px;
+    margin-left: 840px;
+    margin-top: -117px;
+}

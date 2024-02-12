@@ -1,0 +1,60 @@
+.title{
+    width: 400px;
+    height: 250px;
+    margin-top: 140px;
+    margin-left: 217px;
+    font-size: 80px;
+    font-weight: 600;
+    line-height: 87px;
+    text-align: left;
+    color: #FFFFFF;
+}
+.title2{
+    display: flex;
+    font-size: 18px;
+    margin-left: 220px;
+    margin-top: -40px;
+    color: #FFFFFF;
+}
+.title3{
+    display: flex;
+    font-size: 18px;
+    margin-left: 220px;
+    margin-top: -20px;
+    color: #FFFFFF;
+}
+.divcomputer{
+    display: flex;
+    margin-top: -500px;
+    margin-left: 700px;
+    width: 400px;
+    height: 480px;
+}
+.sombra02{
+   margin-left: -100px;
+   margin-top: 200px;
+   width: 679px;
+   height: 679px;
+}
+.button2{
+  margin-left: -400px;
+  margin-top: 30px;
+  width: 230px;
+  height: 65px;
+  font-weight: 300;
+  font-size: 18px;
+  border-radius: 83px;
+  border: none;
+  color:#FFFFFF;
+  background-color:#8D8DDA;
+}
+.button3{
+    margin-left: 20px;
+    width: 230px;
+    height: 65px;
+    font-size: 18px;
+    font-weight: 300;
+    border-radius: 83px;
+    background-color: transparent;
+    color: #FFFFFF;
+}

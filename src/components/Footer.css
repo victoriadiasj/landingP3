@@ -1,0 +1,157 @@
+.divfooter{
+    border-radius: 30px;
+    background: linear-gradient(279deg, #ABD9D9 -20.32%, #5151C6 103.51%);
+    width: 830px;
+    height: 340px;
+    margin-left: 280px;
+    margin-top: 90px;
+}
+.pfooter{
+    width: 358px;
+    height: 47px;
+    margin-top: -300px;
+    margin-left: 500px;
+    font-weight: 600;
+}
+.h1footer{
+    width: 526px;
+    height: 134px;
+    color: #FFF;
+    font-size: 51px;
+    font-weight: 700;
+    margin-left: 430px;
+    margin-top: -15px;
+    line-height: 100%; /* 57px */
+}
+.buttonfooter{
+    padding-top: 22px ;
+    padding-bottom: 22px ;
+    padding-left: 71px ;
+    padding-right: 71px ;
+    background-color: #000000;
+    color: #ffffff;
+    border-radius: 83px;
+    border: none;
+    text-transform: uppercase;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.sombra4{
+    margin-left: 730px;
+    margin-top: -300px;
+}
+.krypto2{
+    text-transform: uppercase;
+    color: #ffffff;
+    margin-left: -660px;
+    margin-top: -300px;
+    font-weight: 600;
+}
+.info{
+    color: #ffffff;
+    margin-left: -200px;
+}
+.info2{
+    color: #ffffff;
+    margin-left: -200px;
+}
+.info3{
+    color: #ffffff;
+    margin-left: -200px;
+}
+.info4{
+    color: #ffffff;
+    margin-left: -200px;
+}
+.inform{
+    margin-left: 630px;
+    font-size: 13px;
+    text-align: left;
+}
+.mercado{
+    color: #ffffff;
+    margin-top: -155px;
+    font-weight: 600;
+    margin-left: -60px;
+}
+.browse{
+    color: #ffffff;
+}
+.buy{
+     color: #ffffff;
+}
+.sell{
+    color: #ffffff;
+}
+.divmercado{
+     font-size: 13px;
+     height: 500px;
+     text-align: left;
+     margin-left: 590px;
+}
+.contato{
+    color: #ffffff;
+    margin-left: 500px;
+}
+.divcontato{
+    margin-top: -552px;
+    margin-left: -230px;
+    font-weight: 600;
+    height: 500px;
+}
+.contato1{
+   color:#ffffff;
+}
+.contato2{
+    color:#ffffff;
+}
+.contato3{
+    color:#ffffff;
+}
+.contato4{
+    color:#ffffff;
+}
+.divcontato2{
+    margin-left: 760px;
+    margin-top: -477px;
+    font-size: 13px;
+    text-align: left;
+    height: 250px;
+}
+.assine{
+    color:#ffffff;
+    margin-left: 680px;
+    margin-top: -285px;
+    font-weight: 600;
+    font-size: 18px;
+    height: 500px;
+}
+.input{
+    margin-left: 800px;
+    width: 305px;
+    height: 53px;
+    padding-left: 13px;
+    border-radius: 70px;
+    border: none;
+    background-color: #13124F;
+
+}
+.divinput{
+    margin-top: -450px;
+    height: 800px;
+}
+.enviar{
+    margin-left: 975px;
+    border-radius: 83px;
+    border: none;
+    background-color: #8D8DDA;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 600;
+    width: 140px;
+    height: 49px;
+}
+.divenviar{
+    margin-top: -797px;
+    height: 220px;
+}
